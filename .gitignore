@@ -1,0 +1,22 @@
+# Gradle
+.gradle/
+build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Local toolchain / machine specific files
+.tools/
+local.properties
+.idea/
+*.iml
+.DS_Store
+
+# Build outputs
+*.apk
+*.aab
+app/release/
+
+# Agent workspace metadata
+.cline-home/

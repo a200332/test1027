@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">每日要闻</string>
+
+    <string name="search">搜索</string>
+    <string name="settings">设置</string>
+    <string name="refresh">刷新</string>
+    <string name="back">返回</string>
+
+    <string name="updating">正在更新…</string>
+    <string name="never_updated">尚未更新</string>
+    <string name="updated_at">更新于 %1$s · 共 %2$d 条</string>
+    <string name="sources_failed">有 %1$d 个新闻源更新失败</string>
+    <string name="offline_cache">网络不可用，当前展示离线缓存</string>
+    <string name="refresh_done">已更新 %1$d 条要闻</string>
+
+    <string name="loading">正在获取最新要闻…</string>
+    <string name="error_title">暂时无法获取新闻</string>
+    <string name="error_message">请检查网络连接后重试</string>
+    <string name="retry">重新加载</string>
+    <string name="empty_title">暂无相关新闻</string>
+    <string name="empty_message">换个分类或关键词试试</string>
+
+    <string name="source_meta">%1$s · %2$s</string>
+    <string name="unknown_time">时间未知</string>
+    <string name="time_just_now">刚刚</string>
+    <string name="time_minutes_ago">%1$d 分钟前</string>
+    <string name="time_hours_ago">%1$d 小时前</string>
+    <string name="time_yesterday">昨天 %1$s</string>
+
+    <string name="category_all">全部</string>
+    <string name="category_headline">头条</string>
+    <string name="category_world">国际</string>
+    <string name="category_tech">科技</string>
+    <string name="category_business">财经</string>
+
+    <string name="article_detail">新闻详情</string>
+    <string name="action_open">阅读原文</string>
+    <string name="action_share">分享</string>
+    <string name="detail_no_summary">该新闻源未提供摘要，请点击下方按钮阅读全文。</string>
+    <string name="share_chooser">分享新闻</string>
+    <string name="detail_disclaimer">内容来自 %1$s，版权归原作者所有。</string>
+    <string name="link_invalid">链接无效</string>
+    <string name="no_browser">未找到可用的浏览器</string>
+    <string name="search_hint">搜索标题、摘要或来源</string>
+
+    <string name="settings_title">设置</string>
+    <string name="settings_sources">新闻源</string>
+    <string name="settings_sources_hint">至少保留一个新闻源；修改后返回首页会自动刷新。</string>
+    <string name="settings_notification">每日要闻通知</string>
+    <string name="settings_notification_desc">每天 08:00 推送当日头条摘要</string>
+    <string name="settings_about">关于</string>
+    <string name="settings_version">版本 %1$s</string>
+    <string name="settings_about_desc">每日要闻聚合多个公开 RSS 新闻源，仅用于个人阅读。所有新闻内容及图片版权归原作者与发布机构所有。</string>
+    <string name="source_added">已添加 %1$s</string>
+    <string name="source_removed">已移除 %1$s</string>
+    <string name="at_least_one_source">请至少保留一个新闻源</string>
+    <string name="notification_permission_denied">未获得通知权限，可在系统设置中开启</string>
+
+    <string name="notification_channel_name">每日要闻</string>
+    <string name="notification_channel_desc">每天推送最新要闻摘要</string>
+    <string name="notification_title">今日要闻 · %1$d 条更新</string>
+    <string name="notification_text">点击查看今日最新新闻</string>
+
+    <string name="no_content">新闻源暂时没有返回内容</string>
+</resources>
